@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shibo Hu</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">Im am a full-stack software engineer.</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [comming soon](comming soon)
 
