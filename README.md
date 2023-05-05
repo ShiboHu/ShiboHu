@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shibo Hu</h1>
-<h3 align="center">Im am a full-stack software engineer.</h3> ![](https://komarev.com/ghpvc/?username=shibohu)
+<h3 align="center">Im am a full-stack software engineer.</h3> 
 
 - 🌱 I’m currently learning **Python**
 
