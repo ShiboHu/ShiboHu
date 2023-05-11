@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [comming soon](comming soon)
+- 👨‍💻 All of my projects are available at https://shibohu.github.io/portfolio
 
 - 📫 How to reach me **hushibo456@gmail.com**
 
