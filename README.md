@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hushibo456@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1QpSrSGDQ1ZeWN3ga2ty7WyYMLfKRuS8YdAhGQzC0m2s/edit](https://docs.google.com/document/d/1QpSrSGDQ1ZeWN3ga2ty7WyYMLfKRuS8YdAhGQzC0m2s/edit)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1QpSrSGDQ1ZeWN3ga2ty7WyYMLfKRuS8YdAhGQzC0m2s/edit](https://docs.google.com/document/d/1QpSrSGDQ1ZeWN3ga2ty7WyYMLfKRuS8YdAhGQzC0m2s/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
