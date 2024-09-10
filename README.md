@@ -1,14 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shibo Hu</h1>
 <h3 align="center">Im am a full-stack software engineer.</h3> 
-
-- 🌱 I’m currently learning **Python**
-
-- 👨‍💻 All of my projects are available at https://shibohu.github.io/portfolio
-
-- 📫 How to reach me **hushibo456@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1QpSrSGDQ1ZeWN3ga2ty7WyYMLfKRuS8YdAhGQzC0m2s/edit](https://docs.google.com/document/d/1QpSrSGDQ1ZeWN3ga2ty7WyYMLfKRuS8YdAhGQzC0m2s/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shibo-hu-b4712323a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
